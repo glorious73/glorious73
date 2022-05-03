@@ -9,6 +9,7 @@
 - ⚡ &nbsp;Fun fact: I :heart: Running 🏃‍♂️, Tennis 🎾, Football ⚽, Driving 🚗
 
 <br/>
+
 ### 📕 &nbsp;**Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Submit HTML Forms to JSON APIs easily](https://dev.to/amjadmh73/submit-html-forms-to-json-apis-easily-137l)
@@ -17,6 +18,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
+
 ### 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/amjadmh73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
