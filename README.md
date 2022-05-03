@@ -21,8 +21,8 @@
 
 ### 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/amjadmh73" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" style="padding-right:20px;"/></a>
-<a href="https://twitter.com/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" style="padding-right:20px;"/></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="padding-right:20px;"/></a>
-<a href="https://stackoverflow.com/users/6336270/amjad-abujamous" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" style="padding-right:20px;"/></a>
-<a href="https://instagram.com/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="padding-right:20px;"/></a>
+<a href="https://dev.to/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/dev-dot-to.svg" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
+<a href="https://twitter.com/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/twitter.svg" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
+<a href="https://linkedin.com/in/amjadaj-se" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/linked-in-alt.svg" alt="amjadaj-se" height="30" width="40" style="padding-right:20px;"/></a>
+<a href="https://stackoverflow.com/users/6336270/amjad-abujamous" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/stack-overflow.svg" alt="amjad-abujamous" height="30" width="40" style="padding-right:20px;"/></a>
+<a href="https://instagram.com/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/instagram.svg" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
