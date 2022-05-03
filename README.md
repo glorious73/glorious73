@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋
+
+<p>Welcome! </br> I'm Amjad, a passionate software engineer with an analytical mindset and problem-solving abilities, as well as excellent interpersonal and communication skills. Among many things, I'm a web developer and a tech enthusiast.</p>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/glorious73" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/amjadmh73" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/amjadaj-se" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://dev.to/amjadmh73" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/DEV-Dev.to-black" /></a> 
+</p>
 
 <!--
 **glorious73/glorious73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
