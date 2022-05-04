@@ -6,7 +6,7 @@
 - 🌱 &nbsp;I’m currently learning Rabbit MQ, Scaled Scrum, and Spring Boot
 - 💬 &nbsp;Ask me about anything related to Java/C#/Javascript/HTML/CSS - Agile Project Management/Fintech/Payments/Product Management
 - 📫 &nbsp;How to reach me: see below ⬇️
-- ⚡ &nbsp;Fun fact: I :heart: Running 🏃‍♂️, Tennis 🎾, Football ⚽, Driving 🚗
+- ⚡ &nbsp;Fun fact: I :heart: Running 🏃‍♂️, Tennis 🎾, Football ⚽, Driving 🚗, Space 🌌
 
 <br/>
 
