@@ -17,7 +17,7 @@
 - [Export Any List To Excel in ASP.Net Core](https://dev.to/amjadmh73/export-any-list-to-excel-in-asp-net-core-7d)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+
 
 ### 🔗 &nbsp;**Connect with me**
 <p align="left">
