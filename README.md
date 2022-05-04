@@ -16,8 +16,7 @@
 - [The best way to keep the footer at the bottom of your web page](https://dev.to/amjadmh73/the-best-way-to-keep-the-footer-at-the-bottom-of-your-web-page-32ek)
 - [Export Any List To Excel in ASP.Net Core](https://dev.to/amjadmh73/export-any-list-to-excel-in-asp-net-core-7d)
 <!-- BLOG-POST-LIST:END -->
-
-
+<br/>
 
 ### 🔗 &nbsp;**Connect with me**
 <p align="left">
