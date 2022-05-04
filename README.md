@@ -1,5 +1,5 @@
 ### Hi 👋
-<br/>
+
 <p>I'm Amjad, a passionate software engineer with a business-driven mindset. Among many things, I'm a web developer and a tech enthusiast, and I'm funny :)</p>
 
 - 🔭 &nbsp;I’m always working on something cool :wink:
