@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://iamamjad.com" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/44087932?v=4" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
 <a href="https://dev.to/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/dev-dot-to.svg" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
-<a href="https://twitter.com/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/twitter.svg" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
+<a href="https://twitter.com/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/x.svg" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
 <a href="https://linkedin.com/in/amjadaj-se" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/linked-in-alt.svg" alt="amjadaj-se" height="30" width="40" style="padding-right:20px;"/></a>
 <a href="https://stackoverflow.com/users/6336270/amjad-abujamous" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/stack-overflow.svg" alt="amjad-abujamous" height="30" width="40" style="padding-right:20px;"/></a>
 <a href="https://instagram.com/amjadmh73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/glorious73/glorious73/main/img/instagram.svg" alt="amjadmh73" height="30" width="40" style="padding-right:20px;"/></a>
